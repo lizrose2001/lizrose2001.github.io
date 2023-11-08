@@ -7,7 +7,7 @@ collection: portfolio
 
 <p>&nbsp;</p>
 
-(06/28/2022) Glade Valley Lions Club offers fellowship, fundraising, and fun to community
+### (06/28/2022) Glade Valley Lions Club offers fellowship, fundraising, and fun to community
 
 Chartered on May 15, 1945, the Glade Valley Lions Club has been a staple of the community for nearly 80 years. During this time, they have provided extensive service to residents of Woodsboro, Walkersville, and beyond, and flourished in their fellowship with one another.
 

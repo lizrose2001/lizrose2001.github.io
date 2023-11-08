@@ -1,6 +1,6 @@
 ---
 title: "“Pollinators and Food Insecurity in ‘Developing’ States”"
-excerpt: "(2020) Research Paper - “While some studies like that conducted within Aargau, Switzerland demonstrated that there are ways to compensate for native pollinator loss in agri-environment schemes, most, including those in Carajas National Forest in Brazil and throughout New Zealand, have demonstrated the need for immediate and thorough climate action. The loss of pollinators in developing states exacerbates food insecurity by diminishing crops needed to strengthen local economies and feed populations and poses a great risk to human survival...”"
+excerpt: "(December 2020) Research Paper - “While some studies like that conducted within Aargau, Switzerland demonstrated that there are ways to compensate for native pollinator loss in agri-environment schemes, most, including those in Carajas National Forest in Brazil and throughout New Zealand, have demonstrated the need for immediate and thorough climate action. The loss of pollinators in developing states exacerbates food insecurity by diminishing crops needed to strengthen local economies and feed populations and poses a great risk to human survival...”"
 collection: portfolio
 ---
 

@@ -5,8 +5,11 @@ collection: portfolio
 ---
 
 Elizabeth Anderson
+
 Prof. Carter
+
 PSCI / ESS 260
+
 9 November 2020
 
 <p align="center">
@@ -37,7 +40,8 @@ Efforts have been made to boost pollinator population growth and survival rates,
 
 Food insecurity is not a problem that can be quickly eliminated, but it is one that can be remedied through a strong agricultural sector. This can only occur through the conservation of pollinator species in their native habitats, which is impossible if action is not taken against climate change and rising temperatures as a result of global warming. As such a large portion of the world’s population, mostly in rural and developing communities, depends upon agriculture for survival and preservation of already-disappearing cultures and communities, pollinator populations must be able to remain stable or increase. If this does not happen, issues like civil unrest, international disputes, and a weakening economy will be exacerbated by a lack of proper nutrition in a large percentage of the global population. Research has shown that pollinator populations are most affected by changes, particularly rises, in temperature, which can cause geographic range shifts, mismatches in pollinators and their food plants, and disrupted wintering habits. In rural parts of Brazil surrounding the Amazon rainforest, pollinator populations are expected to experience rapid and widespread decline over the next several decades. In New Zealand, non-native pollinators have been used in an attempt to make up for a lack of native species, resulting in further decline of those native species. In Switzerland, agri-environment schemes have been proven to help, but not fully compensate for declining pollinator populations. If more immediate and extreme measures are not taken to not only stabilize pollinator populations, but prevent further damage by climate change, stability of nations around the world could be rocked simply by lack of sufficient food resources. 
 
- 
+
+
 Works Cited
 
 “Agriculture and Food Security.” U.S. Agency for International Development, 15 Apr. 2019, www.usaid.gov/what-we-do/agriculture-and-food-security. 

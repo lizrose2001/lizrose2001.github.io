@@ -79,11 +79,17 @@ Service & Leadership
 
 Hard Skills
 ======
-*Google Suite
-*Microsoft Suite
-*Canva
-*Mailchimp
-*Adobe InDesign
-*Wordpress
-*Weebly
+* Google Suite
+
+* Microsoft Suite
+
+* Canva
+
+* Mailchimp
+
+* Adobe InDesign
+
+* Wordpress
+
+* Weebly
 

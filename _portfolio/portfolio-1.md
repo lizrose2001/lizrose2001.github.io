@@ -4,9 +4,15 @@ excerpt: "(July 2023) Print publication from the Woodsboro-Walkersville News Jou
 collection: portfolio
 ---
 
+<p>&nbsp;</p>
+
 ### July 2023
 
+<p>&nbsp;</p>
+
 <img src='/images/heizer.png'>
+
+<p>&nbsp;</p>
 	
 Nestled in the heart of the Glade Valley community lies Blue Glade Farm, a burgeoning permaculture farm where Patrick and Alison Heizer have embarked on an inspiring journey to integrate their love for nature, science, and sustainable agriculture. The couple, along with their six-month-old daughter Valentine and two-year-old coonhound Blue, have embraced the joys and challenges of building their farm and new traditions.
 

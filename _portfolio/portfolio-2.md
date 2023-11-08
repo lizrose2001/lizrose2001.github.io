@@ -1,6 +1,6 @@
 ---
 title: "“The Bias of ‘Development’: Agricultural Employment in an Industrial World”"
-excerpt: "(2023, Research Paper)"
+excerpt: "(2023) Research Paper"
 collection: portfolio
 ---
 

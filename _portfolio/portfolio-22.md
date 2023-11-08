@@ -4,6 +4,12 @@ excerpt: "(March 2023) Print publication from the Emmitsburg News Journal, in pa
 collection: portfolio
 ---
 
+<p>&nbsp;</p>
+
+### March 2023
+
+<p>&nbsp;</p>
+
 On Feb. 7, commissioners addressed aspects of the Thurmont Boulevard project, which would connect Frederick Road and Moser Road and provide numerous benefits to the municipality. With the project in discussion for at least 35 years, the town is eager to move forward into planning and construction.
 
 The proposed roadway is approximately half a mile long and described by CAO Jim Humerick as “an infrastructure project with connectivity and accessibility components.” Not only will the road provide an additional pedestrian, bicycle, and vehicle connection, it will also address aging water and sewage infrastructure and create new environmental opportunities.

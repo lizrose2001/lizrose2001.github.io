@@ -4,4 +4,4 @@ excerpt: "(2020) Online Publication - “The Immigration and Nationality Act fai
 collection: portfolio
 ---
 
-Read publication [HERE].(https://lhslance.org/2019/showcase/undocumented-immigrants-in-frederick-deserve-hope-not-hate/)
+Read publication [HERE](https://lhslance.org/2019/showcase/undocumented-immigrants-in-frederick-deserve-hope-not-hate/)

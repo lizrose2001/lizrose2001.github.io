@@ -4,8 +4,7 @@ excerpt: "(2020) Research Paper"
 collection: portfolio
 ---
 
-()
-()
+<p>&nbsp;</p>
 
 Elizabeth Anderson
 

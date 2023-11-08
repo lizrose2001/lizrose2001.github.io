@@ -1,6 +1,6 @@
 ---
-title: "Paper 1"
-excerpt: "(2022-2023) Copies of print publications, not published online"
+title: "“The Bias of ‘Development’: Agricultural Employment in an Industrial World”"
+excerpt: "(2023, Research Paper)"
 collection: portfolio
 ---
 

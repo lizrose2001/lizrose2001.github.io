@@ -1,6 +1,6 @@
 ---
 title: "Woodsboro-Walkersville News Journal Print Publications"
-excerpt: "(2023) Copies of print publications"
+excerpt: "(2022-2023) Copies of print publications, not published online"
 collection: portfolio
 ---
 

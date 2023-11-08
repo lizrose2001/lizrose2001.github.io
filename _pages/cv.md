@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+B.A. in Comparative Religion, Drew University, 2023
+Minors in Women’s and Gender Studies, International Relations
+Cumulative GPA: 3.83
 
 Work experience
 ======

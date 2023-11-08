@@ -1,47 +1,35 @@
 ---
-title: "Woodsboro-Walkersville News Journal Print Publications (Sample)"
-excerpt: "(2022 - Present) Copies of (3) print publications for WWNJ (not published online)."
+title: "“Family traditions cultivated at local permaculture farm”"
+excerpt: "(July 2023) Print publication from the Woodsboro-Walkersville News Journal"
 collection: portfolio
 ---
-### I have written approximately 50 published articles for the Woodsboro-Walkersville News Journal. Below is a sample collection of three (3) of those articles.
 
 <p>&nbsp;</p>
-
-### (06/28/2022) Glade Valley Lions Club offers fellowship, fundraising, and fun to community
-
-Chartered on May 15, 1945, the Glade Valley Lions Club has been a staple of the community for nearly 80 years. During this time, they have provided extensive service to residents of Woodsboro, Walkersville, and beyond, and flourished in their fellowship with one another.
-
-Paul Stull, a member for 53 years, has seen the club’s growth and fondly remembers much of the club’s history. Stull used to teach at Walkersville High School, where he learned about the Lions Club from school staff, and while several other current members were WHS faculty as well, participation is certainly not limited.
-
-“Over the years, we have had members of all walks of life,” says Stull. “Many different types of members have joined such as doctors, dentists, lawyers, farmers, and mechanics.”
 	
-This speaks to the club’s openness to all community members, as long as they are passionate about giving back to others. Throughout their history, Lions Club activities have ranged from roadside cleanups to Halloween parties, consignment sales to cornhole competitions. Stull says that his favorite memory of the club is giving out Christmas baskets and seeing the smiles on the faces of the families receiving them.
-	
-If members are not directly volunteering, they are helping raise money for numerous organizations and charities. The club’s biggest fundraiser of the year is their annual golf tournament. The 2022 tournament will take place on August 5th at Maple Run Golf Club in Thurmont and is the 26th annual tournament. This year, golf chairman Henry “Butch” Wilson expects as many as 30 teams of golfers (with 4 golfers each, that’s about 120 participants) and between 50 and 60 sponsors.
-	
-Wilson has been a member of the Glade Valley Lions Club since 2006 and held the positions of president, district chairman, vice president, and second vice president before becoming golf chairman. In his current position, he oversees a tournament that is now so successful that money not only goes to the club’s scholarship program but other activities as well. “We see golfers from Walkersville, Woodsboro, Frederick, New Windsor, and even as far as Ellicott City,” says Wilson.
-	
-The Glade Valley Lions Club scholarship program is one of the club’s main investments into the community. This year, five Walkersville High students each received $1,500 to put toward future education.
-	
-Isaac Benson, one of the recipients, said that the application was very focused on community service--certainly on par for the club. Benson created the Start Up Club at WHS and has been part of local Boy Scouts Troop 1070 (which, coincidentally, is regularly supported by the Lions Club). He plans to keep up with his volunteerism by joining Engineers Without Borders at UMBC.
-	
-Other recipients include Claire Smith, Abigail Wambach, Joshua Stevens, and Willow Stewart. Smith, Wambach, and Stewart were all part of the Leo Club at WHS, a group sponsored by local Lions Clubs for young people interested in service. Lauren Anderson, who helped bring the Leo Club to WHS from her middle school, attended the club’s last June meeting to support her fellow Leos.
+Nestled in the heart of the Glade Valley community lies Blue Glade Farm, a burgeoning permaculture farm where Patrick and Alison Heizer have embarked on an inspiring journey to integrate their love for nature, science, and sustainable agriculture. The couple, along with their six-month-old daughter Valentine and two-year-old coonhound Blue, have embraced the joys and challenges of building their farm and new traditions.
 
-“I love seeing the difference it makes on a larger scale,” said Anderson. “It was so cool to see all of the committees coming together and thinking of things I never would’ve thought of on my own.”
+Raised on a small beef cattle farm in Hagerstown, Patrick developed an appreciation for nature early in his life. Fond of his memories of helping his father care for animals, he also notes how his interactions with neighbors helped shape his understanding of sustainability. “I got to experience the dichotomy of modern agriculture up close and personal,” said Patrick. “At every farm we visited, there would be a family that deeply cared for their herd and their land and worked hard to help supply the food that all of us eat daily. But I also got to see the manure pits, chemically-induced monocultures, and reliance on fossil fuel energy.”
 
-Thanks to the hard work of Anderson, Smith, and many other students, graduating seniors leave a club that is very sustainable for the future with over 100 members.
-	
-Anderson’s favorite fundraiser was the Dinner in the Dark event, which she participated in both in 8th and 10th grade. Money raised from Dinner in the Dark supports Leader Dogs for the Blind, an organization that the Lions Club has long been partners with. During the event, attendees are blindfolded while they dine to gain a sense of the difficulties of blindness.
-	
-Georgia Ann Zirkle, a great supporter of the Lions Club, says that work for the blind is very important and she has been continuously impressed by the organization’s commitment to the cause.
+Despite his upbringing, it was not Patrick’s initial intention to pursue agriculture into his adult life. At Virginia Tech, he studied chemistry and philosophy, and here met his wife Alison, who was pursuing human nutrition, foods, and exercise. While Alison was introduced to regenerative agriculture during her studies, it took a move to the West Coast and new friends to pique Patrick’s interest.
 
-At the last June meeting, newly elected club president Martin “Marty” Potash addressed another cause he feels passionate about. “Diabetes is actually one of the main causes of blindness, and I hope to bring that issue more to the forefront,” said Potash.
+For six years, the couple lived in Los Angeles and built their careers: Alison attending graduate school and Patrick working as a research assistant at UCLA. “At some point while I was [there], I stumbled upon regenerative agriculture and permaculture and got very into it,” said Patrick. “What started as a curiosity and then a patio garden in LA grew into the desire to have a farm for ourselves.”
 
-He also made an announcement about yet another popular club activity--its participation in the Walkersville Volunteer Fire Co. Carnival. During the carnival, club members sell fries (and sometimes other food as well) to raise money for the club. Potash pointed out that anyone is welcome to volunteer with the club, including Leos and non-members.
-	
-The Glade Valley Lions Club also strives to connect with other clubs in the area. In fact, Glade Valley Lions have been invited to celebrate the 100th anniversary of the Frederick Lions Club’s charter this year. The Frederick club is the longest running club in all of Maryland, Delaware, and Washington, D.C. The celebration will feature a president from an international club as its keynote speaker. With Lions Clubs in over 200 countries, this is an honor and a testament to the widespread impact of Lions Clubs globally.
+Permaculture, an approach to agriculture that emphasizes sustainable design principles and mimics natural ecosystems, is a relatively new concept influenced by numerous farmers, scientists, and conservationists from around the world. Permaculture challenges the modern farming trend of monoculture, in which a plot of land is used to grow a single crop repeatedly. Monoculture is widely considered unsustainable as it contributes to soil degradation and the spread of disease among plants. In contrast, permaculture enriches and strengthens soil.
 
-Says Stull, “The camaraderie of people in the Lions Club is amazing. I feel lucky to be a part of a community like this.” The rest of the club strongly shares this sentiment, with many noting their favorite service activities and memories of giving back to the community.
+The call of their East Coast roots and a growing interest in permaculture prompted the Heizers to seek a lifestyle different from the one they shared in California. In 2021, they sold most of their belongings, packed up their car, and made the long journey back to Maryland. After several months of searching, they found their current property on Glade Road. A picturesque 11.5-acre plot previously used as a horse farm, the land offered the Heizers the opportunity to bring their sustainable agriculture dreams to life.
 
-The Glade Valley Lions Club currently meets at St. John’s United Church of Christ in Woodsboro every first and third Thursday of the month. You can follow the club on Facebook or find more information at their website (https://e-clubhouse.org/sites/gladevalley/index.php). Interested in joining? Reach out to an officer via mail or email, which are both listed on their site contact page.
+The couple’s vision for Blue Glade Farm revolves around agroecological principles. By planting a variety of native species, eliminating synthetic inputs, and eventually raising animals on the land, they aim to integrate their farm into the local ecological landscape. “Primary crops will be beef, eggs, chestnuts, paw paw, asparagus, and potatoes,” said Patrick. “Our long term plans are rotational grazing below perennial tree crops, a large chicken yard, and as much annual garden as we can maintain.”
 
+According to the master plan for Blue Glade Farm, located on Patrick’s blog The Counterpoint, one of the key steps in establishing permaculture will be to start cycling nutrients through the soil. “One easy way to do this is with compost, which we’ve already invested heavily in,” writes Patrick. He hopes that the introduction of chickens will eventually create a self-sufficient compost cycle, with the chickens upcycling kitchen scraps and producing both fertilizer and protein-rich eggs.
+
+The challenges of establishing a sustainable farm are not lost on the Heizers, especially as they balance full-time careers and the responsibilities of raising a young child. During the day, Patrick works at AstraZeneca as a biomedical engineer, while Alison works as a registered dietitian--and mom. According to the couple, tree planting has taken priority, with peaches, persimmons, chestnuts, hazelnuts, and paw paw all finding a place on the farm. They have also planted berries and flowers while tackling the ongoing task of managing and protecting both old and new vegetable garden beds.
+
+Patrick typically manages most of the physical labor of the farm, spending the bulk of his evenings outside caring for the family’s crops. With the farm still considered to be in “stage one,” this typically includes managing weeds and invasive plants, clearing grass to plant more native species, and harvesting. Of course, it also includes playing with Blue, who is just as important to the operation of the farm as its namesake.
+
+Although Alison’s involvement in farming has been limited due to the birth of Valentine, she looks forward to more actively participating in the farm’s development alongside her daughter. As a registered dietitian, she is particularly interested in food systems and the impact of regenerative agriculture on the nutritional quality of food. The move to the farm has allowed her to reconnect with the outdoors and pursue her own passions, which include spending time with her family. “It is surreal to have accomplished so much of what we discussed and to be living what we dreamed about,” says Alison. “My favorite moments have been sitting on the upstairs front porch with Valentine and some coffee reflecting on this.” 
+
+The joys of being able to share the farm with family is what keeps the Heizers going through busy schedules and unexpected challenges. Patrick and Alison both eagerly await the day that their daughter can be their “first farmhand” and actively engage in the daily functioning of the farm. “We wouldn’t trade it for the world,” says Patrick.
+
+With high hopes for the future, the Heizers also maintain realistic expectations bounded by limits of time, money, and energy. “[One day], I would love to start a private practice to bridge the gap of nutrition and growing practices of our food system,” said Alison, “but for me [right now], it is about slowing down and getting to spend time together.”
+
+Patrick indicates that if the farm is successful enough to one day turn a profit, he would love to manage it full-time. “The best moments are yet to come,” said Patrick. “The opportunity to labor, to care for another creature, to learn ecology…to be outdoors and experience nature, to spend time with family [is] something that will stand for generations.”

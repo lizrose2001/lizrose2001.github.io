@@ -1,6 +1,6 @@
 ---
-title: "Paper 3"
-excerpt: "(2022-2023) Copies of print publications, not published online"
+title: "“Pollinators and Food Insecurity in ‘Developing’ States”"
+excerpt: "(2020) Research Paper"
 collection: portfolio
 ---
 

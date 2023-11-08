@@ -1,6 +1,6 @@
 ---
 title: "“Undocumented immigrants in Frederick deserve hope, not hate”"
-excerpt: "(2020)"
+excerpt: "(2020) Online publication"
 collection: portfolio
 ---
 

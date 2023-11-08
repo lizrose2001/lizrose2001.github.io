@@ -4,9 +4,11 @@ excerpt: "(2023) Research Paper"
 collection: portfolio
 ---
 
+<p>&nbsp;</p>
 
 The Bias of “Development”: Agricultural Employment in an Industrial World
 
+<p>&nbsp;</p>
 
 Elizabeth Anderson
 
@@ -16,9 +18,11 @@ Dr. Jason Jordan
 
 10 May 2023
 
-
+<p>&nbsp;</p>
 
 Abstract: This paper examines the correlation between agricultural employment and global cycles of poverty by comprehensively reviewing existing literature and data as well as exploring the factors that contribute to poverty cycles in agricultural economies, such as low productivity, limited access to markets, and the impact of climate change. The paper also explores case studies on undernourishment and food security in various regions, including Africa, Latin America, and Asia, to illustrate the impact of agricultural employment on poverty cycles. Ultimately, this analysis demonstrates the need for a multi-pronged approach to address poverty related to national, regional, and global trends in agricultural and industrial employment.
+
+<p>&nbsp;</p>
 
 Introduction
 
@@ -50,6 +54,7 @@ If countries considered to be “developing” are to sufficiently address the n
 
 Policy change within “developing” countries should take into account diverse cultural backgrounds which influence the operation of different economic and employment sectors. For example, in many locations, women make up a large portion or majority of the agricultural workforce, but remain poorly compensated for their work. This inhibits their ability to support their families and communities. In attempting to lessen food insecurity, undernourishment, and poverty, women must be valued within policy surrounding agricultural employment, as well as provided with further opportunities (and less barriers) to jobs in industrial and service sectors which tend to be more discriminatory toward women (Mkpado).
 
+<p>&nbsp;</p>
 
 References
 

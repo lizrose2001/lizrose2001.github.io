@@ -1,6 +1,6 @@
 ---
 title: "“Undocumented immigrants in Frederick deserve hope, not hate”"
-excerpt: "(2020) Online publication for "The Lance" newspaper"
+excerpt: "(2020)"
 collection: portfolio
 ---
 

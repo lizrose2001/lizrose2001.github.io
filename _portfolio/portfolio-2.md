@@ -1,6 +1,6 @@
 ---
 title: "“The Bias of ‘Development’: Agricultural Employment in an Industrial World”"
-excerpt: "(2023) Research Paper - “Moreover, historic processes of colonialism, imperialism, and marginalization exacerbate flaws created by an international trade system. These flaws are apparent in many sectors, but are highlighted especially within agriculture through vast disparities in wealth, income, and opportunity between nations considered “developed” or “developing” (these may also be referred to as the global “north” and “south;” however, for the purposes of this paper, the terminology of “development” will be used)...”"
+excerpt: "(May 2023) Research Paper - “Moreover, historic processes of colonialism, imperialism, and marginalization exacerbate flaws created by an international trade system. These flaws are apparent in many sectors, but are highlighted especially within agriculture through vast disparities in wealth, income, and opportunity between nations considered “developed” or “developing” (these may also be referred to as the global “north” and “south;” however, for the purposes of this paper, the terminology of “development” will be used)...”"
 collection: portfolio
 ---
 

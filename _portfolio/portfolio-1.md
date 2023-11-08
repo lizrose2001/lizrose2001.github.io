@@ -1,6 +1,6 @@
 ---
 title: "“Family traditions cultivated at local permaculture farm”"
-excerpt: "(July 2023) Print publication from the Woodsboro-Walkersville News Journal"
+excerpt: "(July 2023) Print publication from the Woodsboro-Walkersville News Journal - “The couple’s vision for Blue Glade Farm revolves around agroecological principles. By planting a variety of native species, eliminating synthetic inputs, and eventually raising animals on the land, they aim to integrate their farm into the local ecological landscape...”"
 collection: portfolio
 ---
 

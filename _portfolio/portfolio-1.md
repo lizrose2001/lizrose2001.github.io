@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ### I have written approximately 50 published articles for the Woodsboro-Walkersville News Journal. Below is a sample collection of three (3) of those articles.
 
-
+<p>&nbsp;</p>
 
 (06/28/2022) Glade Valley Lions Club offers fellowship, fundraising, and fun to community
 

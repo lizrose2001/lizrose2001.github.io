@@ -60,7 +60,7 @@ Service & Leadership
 * Treasurer, Drew Roosevelt Network (Feb. 2021 – Oct. 2022)
   * Oversaw budgeting and contributed to outreach opportunities centered around social justice
 
-* Fellow, Civic in Action Program, Write the World (Jan. 2020 – July 2020)
+* Fellow, Civics in Action Program, Write the World (Jan. 2020 – July 2020)
   * Wrote fiction and non-fiction content in various formats addressing social issues
   * Collaborated with team of youth and professionals to review and publish work
 

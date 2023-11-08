@@ -3,7 +3,7 @@ title: "Woodsboro-Walkersville News Journal Print Publications"
 excerpt: "(2022-2023) Copies of print publications, not published online"
 collection: portfolio
 ---
-#### I have written approximately 50 published articles for the Woodsboro-Walkersville News Journal. Below is a sample collection of three (3) of those articles.
+### I have written approximately 50 published articles for the Woodsboro-Walkersville News Journal. Below is a sample collection of three (3) of those articles.
 
 
 

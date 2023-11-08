@@ -6,10 +6,6 @@ collection: portfolio
 
 <p>&nbsp;</p>
 
-The Bias of “Development”: Agricultural Employment in an Industrial World
-
-<p>&nbsp;</p>
-
 Elizabeth Anderson
 
 PSCI 362: International Political Economy
@@ -20,17 +16,23 @@ Dr. Jason Jordan
 
 <p>&nbsp;</p>
 
+<p align="center">
+“The Bias of ‘Development’: Agricultural Employment in an Industrial World”
+</p>
+
+<p>&nbsp;</p>
+
 Abstract: This paper examines the correlation between agricultural employment and global cycles of poverty by comprehensively reviewing existing literature and data as well as exploring the factors that contribute to poverty cycles in agricultural economies, such as low productivity, limited access to markets, and the impact of climate change. The paper also explores case studies on undernourishment and food security in various regions, including Africa, Latin America, and Asia, to illustrate the impact of agricultural employment on poverty cycles. Ultimately, this analysis demonstrates the need for a multi-pronged approach to address poverty related to national, regional, and global trends in agricultural and industrial employment.
 
 <p>&nbsp;</p>
 
-Introduction
+### I. Introduction
 
 There is no question that agriculture has been and always will remain a foundation of human society, if only for its most basic trait of providing food to sustain us. What is less certain is agriculture’s necessity for other aspects of human life like employment and economic stability. These have increasingly become correlated with the growing industrial sector, especially as the rapid globalization of economies and trade has occurred over the past several decades. With these changes come new questions to consider, some of which reveal surprising ironies. Here, I will explore just one: what is the correlation between agricultural employment and global cycles of poverty? In theory, if agriculture is key to our survival, it should provide employees with a sustainable livelihood and secure future.
 
 Industrialization and globalization both play key roles in current relationships between agricultural employment in poverty, as I will illustrate with statistics from the World Development Indicators (WDI) database. Moreover, historic processes of colonialism, imperialism, and marginalization exacerbate flaws created by an international trade system. These flaws are apparent in many sectors, but are highlighted especially within agriculture through vast disparities in wealth, income, and opportunity between nations considered “developed” or “developing” (these may also be referred to as the global “north” and “south;” however, for the purposes of this paper, the terminology of “development” will be used). Although those economies that are deemed more “developed” (due to prioritization of industry and service sectors over agriculture) tend to be more well-equipped to provide adequate resources for their population, it is apparent that those economies which are more heavily agricultural (and often labeled “developing”) have little choice in the consequences of production. The economic development of the latter economies parallels their histories of exploitation by industry- and service-heavy economies. These histories often lie along ethnic, racial, and geographic lines.
 
-Analysis of Data Distribution
+### II. Analysis of Data Distribution
 
 In order to discuss the aforementioned connotations of “developed” and “developing,” it is crucial to explore the concrete relationships between key factors in this discussion, which include agricultural employment and poverty (as measured by GDP per capita and rates of undernourishment). In Figure 1, we can observe a distinct correlation between low agricultural employment and low rates of undernourishment, in addition to a trend in high agricultural employment and high rates of undernourishment. Here lies a distinct visualization of the irony I referred to earlier–countries which (in theory) focus more heavily on the production of food are less likely to have adequate access to food. However, the fact that these nations are not scattered randomly across the globe suggests that there is some causation for the trend described in Figure 1. Figures 2 and 3 illustrate regional variations in measures of employment and poverty and introduce stark contrasts between regions which can generally be divided between political, economic, and societal labels of “developed” and “developing.” Figure 2 addresses specific differences in national rates of agricultural employment. For example, most nations in sub-Saharan Africa rely on the agricultural sector for more than 36 percent of their total employment, with the majority surpassing 54.34 percent. In contrast, traditionally “Western” countries located in North America and Europe have less than a 5.83 percent rate of agricultural employment among total employment. Yet, when GDP per capita is mapped as a measure of relative privilege and poverty, rates almost entirely flip. Figure 3 highlights the high GDP per capita of the countries we just described as having low agricultural employment, while simultaneously showing how sparsely distributed GDP is among citizens of nations with high agricultural employment. Obviously wealth distributions are different in each of these countries; however, GDP per capita still effectively indicates the abilities of countries to support their inhabitants.
 
@@ -38,7 +40,7 @@ Although these maps both utilize the most recent WDI data from 2019, trends of h
 
 An external, but still relevant trend, can also be seen in Figure 4 as agricultural employment as a whole appears to be decreasing over time. This points to the fact that industrialization does not only have an effect on the “developed” nations of the world, but “developing” as well. However, this must also be considered alongside global patterns of population growth.
 
-Discussion of Causation
+### III. Discussion of Causation
 
 In order to analyze the relationship between agricultural employment and poverty, we cannot simply ask, “Where does the food go?”. Figure 5 indicates a correlation between high agricultural employment and high levels of agricultural exports, at first glance suggesting that countries which produce more food are less likely to retain food for their own population; however, this idea fails to consider the varying sizes of national economies. Figure 3 demonstrates the vastly different distributions of GDP both among nations and their respective citizens, which significantly impacts observations of Figure 5. For example, while countries located in the lower left quartile of the graph (which have lower rates of agricultural employment) may see lower rates of agricultural exportation, they could still be exporting a greater volume of food than countries located in the upper right quartile of the graph (which have higher rates of agricultural employment) due to the significantly larger sizes of their GDPs. When specific countries are identified within Figure 5, those in the former group tend to be “developed” countries like the U.S., while those in the latter are nearly all from the regions of sub-Saharan Africa and South Asia.
 
@@ -48,7 +50,7 @@ The globalization of trade has only exacerbated the differences in agricultural 
 
 Despite low efficiency in comparison to the agricultural sector of “developed” economies, smallholder farms in “developing” nations are still essential to the global economy. According to researcher Ken Giller’s 2021 Food Security article, “Smallholder production is estimated to account for 50-70% of global food production” (1074). Furthermore, to discount the value of agricultural work in “developing” countries is to ignore its necessity to the lifestyles maintained in most “developed” countries, which “...[rely] strongly on work performed outside [their] borders in material extraction and transformation” (Perez-Sanchez 2021). The United States and European Union in particular tend to place the burdens of rampant overconsumption on the workforces of “developing” countries, where they can “...take advantage of lower wages and less strict regulations” (Perez-Sanchez 2021). This trend is not at all new; as shown by Figure 4, certain regions of the world have always enjoyed different levels of privilege than others. The perpetual cycles of poverty in “developing” countries, which are maintained through high agricultural employment and low productivity, are purposeful, with “Western” corporations building transnational “monopolies…[that] are the basis of modern imperialism” (Ding 2016, 551). Countries primarily populated by people of color continue to be subjugated by predominantly white nations which take advantage of cheap labor to support the excess of their own citizens while ignoring the basic human needs of rural, foreign, BIPOC communities. Furthermore, “developed” countries exclude “developing” countries from the benefits of the industrial sector, often keeping corporate “...headquarters in the home country and their subsequently higher value added activities in finance…” while placing material burdens on poor foreign workers. In the end, this makes it “...relatively easy…[for] Western developed countries with large amounts of capital and advanced technologies…to achieve higher incomes…” while forcing workers in “developing” countries to “...stay at the lower end of the world’s industrial value chain earning very low wages” (Ding 2016, 554). As stated by Perez-Sanchez in The Journal of the International Society for Ecological Economics (2021), “Just as with environmental impacts, outsourcing [by Western countries] allows an increase in the consumption of working time without its local economic and social costs (reducing human time for care, education, retirement, etc.).”
 
-The Future of Agriculture
+### IV. The Future of Agriculture
 
 If countries considered to be “developing” are to sufficiently address the needs of their population as well as reach the elusive status of “developed,” change is inevitable. As Giller’s statistics show, however, this cannot simply be achieved by industrialization lest the elimination of smallholder agriculture lead to mass international starvation. Instead, the systems upon which agricultural employment is built in “developing” countries must be reconsidered, and agricultural employment itself redistributed to be more productive while retaining existing employees. It should be noted that most of this change will end up occurring in “developed” countries which control international trade and economies. One task of these nations will be to alter attitudes of consumption, as current attitudes of excess drive “demand increases…[which] are directly converted into production increases” in “developing” nations (Giller 2021, 1074). Furthermore, many scholars suggest “the gradual reduction and eventual abolition of agricultural subsidies in developed countries, so as to realize fair competition and help developing countries achieve agricultural modernization” (Ding 2016, 554). Of course, as agricultural modernization occurs, employees of the agriculture sector must be provided with sustainable opportunities for income that lie outside farming. Currently, many “developing” nations sustain a “lack of alternative jobs” within industry and service sectors, limiting employment options particularly in rural communities (Giller 2021, 1086). To remedy this, corporations must be willing to challenge existing policies which place financial jobs firmly in “developed” countries and material jobs in “developing.” Moreover, migration at national (rural-urban) and transnational Global North-South) levels must be accepted and supported, allowing for sufficient mobility and accessibility in the global workforce (Headey 2010, 81).
 
@@ -56,7 +58,9 @@ Policy change within “developing” countries should take into account diverse
 
 <p>&nbsp;</p>
 
+<p align="center">
 References
+</p>
 
 Ding, Xiaoqin, Yubo Qian, and Translated by Shan Tong. 2016. “Globalization, Employment and Agriculture: A Review of the Eleventh Forum of the World Association for Political Economy.” World Review of Political Economy 7(4). http://dx.doi.org/10.13169/worlrevipoliecon.7.4.0541.
 

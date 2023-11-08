@@ -44,7 +44,9 @@ Food insecurity is not a problem that can be quickly eliminated, but it is one t
 
 <p>&nbsp;</p>
 
+<p align="center">
 Works Cited
+</p>
 
 “Agriculture and Food Security.” U.S. Agency for International Development, 15 Apr. 2019, www.usaid.gov/what-we-do/agriculture-and-food-security. 
 

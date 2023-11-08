@@ -1,6 +1,6 @@
 ---
 title: "“Proposed Thurmont Boulevard project in the works”"
-excerpt: "(March 2023) Print publication from the Emmitsburg News Journal, in partnership with the Woodsboro-Walkersville News Journal"
+excerpt: "(March 2023) Print publication from the Emmitsburg News Journal, in partnership with the Woodsboro-Walkersville News Journal - “The proposed roadway is approximately half a mile long and described by CAO Jim Humerick as “an infrastructure project with connectivity and accessibility components.” Not only will the road provide an additional pedestrian, bicycle, and vehicle connection, it will also address aging water and sewage infrastructure and create new environmental opportunities...”"
 collection: portfolio
 ---
 

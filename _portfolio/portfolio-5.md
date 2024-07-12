@@ -4,4 +4,4 @@ excerpt: "(In Progress) Capstone Research Paper"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Read paper online [HERE](file:///C:/Users/eliza/AppData/Local/Temp/64472d96-ac41-4a24-bde9-9fa25e364b15_CAPSTONE%20PAPER.zip.b15/CAPSTONEPAPER.html).
